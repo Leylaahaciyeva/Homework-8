@@ -1,0 +1,150 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: black;
+  padding: 2rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar img {
+  width: 50%;
+}
+.navbar .a1 {
+  color: #f9004d;
+}
+.navbar a {
+  text-decoration: none;
+  color: #c6c9c8;
+  font-weight: 400;
+  margin: 20px;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.navbar a:hover {
+  color: #f9004d;
+}
+.navbar i {
+  color: #c6c9c8;
+  margin: 0 1rem;
+}
+.navbar button {
+  margin-left: 2rem;
+  background-color: black;
+  color: #c6c9c8;
+  border: 2px solid #c6c9c8;
+  padding: 13px 30px;
+  font-weight: 400;
+  border-radius: 5px;
+}
+.navbar button:hover {
+  background-color: #f9004d;
+  border: #f9004d;
+}
+
+.c-b1 {
+  background-color: black;
+  padding: 7rem 5rem;
+}
+.c-b1 h1 {
+  color: #f9004d;
+  font-size: 5rem;
+  line-height: 70px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.icon-box {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 10rem;
+}
+.icon-box .box-1 {
+  margin-left: 5rem;
+  width: 25%;
+}
+.icon-box .box-1 h3 {
+  color: #c6c9c8;
+  font-family: sans-serif;
+  margin-top: 1rem;
+  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+.icon-box .box-1 p {
+  opacity: 0.75;
+  font-weight: 300;
+  color: #c6c9c8;
+  font-size: 25px;
+  line-height: 30px;
+}
+.icon-box .box-2 {
+  width: 25%;
+}
+.icon-box .box-2 h3 {
+  color: #c6c9c8;
+  font-family: sans-serif;
+  margin-top: 1rem;
+  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+.icon-box .box-2 p {
+  opacity: 0.75;
+  font-weight: 300;
+  color: #c6c9c8;
+  font-size: 25px;
+  line-height: 30px;
+}
+.icon-box .box-3 {
+  width: 25%;
+}
+.icon-box .box-3 h3 {
+  color: #c6c9c8;
+  font-family: sans-serif;
+  margin-top: 1rem;
+  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+.icon-box .box-3 p {
+  opacity: 0.75;
+  font-weight: 300;
+  color: #c6c9c8;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.box-ab {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 7rem;
+}
+.box-ab .text-box {
+  margin-left: 2rem;
+}
+.box-ab .text-box h4 {
+  color: #f9004d;
+  font-size: 25px;
+  line-height: 30px;
+  font-family: sans-serif;
+}
+.box-ab .text-box h1 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 3rem 0;
+}
+.box-ab .text-box p {
+  opacity: 0.75;
+  font-weight: 300;
+  color: #c6c9c8;
+  font-size: 25px;
+  line-height: 30px;
+}/*# sourceMappingURL=style.css.map */
